@@ -1,4 +1,4 @@
-Supporting resources for [PopulationSim](https://rsginc.github.io/populationsim) are maintained in 
+Supporting resources for [PopulationSim](https://github.com/rsginc/populationsim) are maintained in 
 this GitHub wiki repository.
 
   - example_calm_data_prep - scripts to create example CALM PUMS data
@@ -7,4 +7,4 @@ this GitHub wiki repository.
   - validation_scripts - validation R script
   - training_package - complete zipped Anaconda install + example_setup + validation scripts + ODOT training materials
 
-To re-create the complete zipped Anaconda install, install Anaconda, create the environment, update all the required packages, test the example, and zip the Anaconda2 folder.
+A complete Python setup for running PopulationSim is at https://github.com/RSGInc/populationSim_python and it can be downloaded via https://github.com/RSGInc/populationsim_python/archive/master.zip
