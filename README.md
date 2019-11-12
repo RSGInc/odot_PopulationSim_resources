@@ -7,4 +7,4 @@ this GitHub wiki repository.
   - validation_scripts - validation R script
   - training_package - complete zipped Anaconda install + example_setup + validation scripts + ODOT training materials
 
-A complete Python setup for running PopulationSim is at https://github.com/RSGInc/populationSim_python and it can be downloaded via https://github.com/RSGInc/populationsim_python/archive/master.zip
+A complete Python setup for running PopulationSim is [here](https://github.com/RSGInc/populationSim_python) and it can be downloaded via https://github.com/RSGInc/populationsim_python/archive/master.zip.
