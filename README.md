@@ -3,6 +3,7 @@ this GitHub wiki repository.
 
   - example_calm_data_prep - scripts to create example CALM PUMS data
   - example_setup - example setups 
+  - example_batch_runner - example batch script to run PopulationSim using the complete Python setup below
   - papers - PopulationSim technical papers
   - validation_scripts - validation R script
   - training_package - complete zipped Anaconda install + example_setup + validation scripts + ODOT training materials
